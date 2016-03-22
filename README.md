@@ -19,3 +19,9 @@ readXML.py & writeXML.py
 ------------------------
 
 2 scripts to write the content of a scene into a xml file and read that information.
+
+
+[WIP] FBXExporter 
+-----------------
+
+Exports to a FBX file animation and meshes
