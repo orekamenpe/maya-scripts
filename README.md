@@ -5,7 +5,7 @@ Here some you have some scripts where I have been working on:
 
 ## Old Scripts ##
 
-**generateCollision.py :**
+**generateCollision.py :**<br>
     It creates 3 types of meshes around an object. It can be a sphere, a box or a cylinder.
 
 **renamer.py :**
