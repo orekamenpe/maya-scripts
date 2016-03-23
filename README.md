@@ -3,9 +3,9 @@ maya-scripts
 
 Here some you have some scripts where I have been working on:
 
-## Old Scripts ##
+### Old Scripts ###
 
-**generateCollision.py :**<br>
+**generateCollision.py :**
     It creates 3 types of meshes around an object. It can be a sphere, a box or a cylinder.
 
 **renamer.py :**
@@ -13,9 +13,10 @@ Here some you have some scripts where I have been working on:
 
 **readXML.py & writeXML.py :**
     2 scripts to write the content of a scene into a xml file and read that information.
+<br>
+<br>
 
-
-## Maya Python Plugins ##
+### Maya Python Plugins ###
 
 **basePluginCommand.py :**
 The common structure base for the maya plugins in python.
@@ -27,8 +28,10 @@ A basic plugin showing all the scene objects, type and path.
 This plugin sets a particle in each vertex of a polymesh. 
 Demo: https://vimeo.com/160164990
 
+<br>
+<br>
 
-##[WIP] Scripts ##
+###[WIP] Scripts ###
 
 **FBXExporter :**
 Exports animations and meshes to a FBX file.
